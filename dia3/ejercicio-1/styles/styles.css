@@ -1,0 +1,16 @@
+body{
+  margin: 0;
+}
+.longin-panel-divs{
+  width: 300px;
+  display: inline;
+}
+.longin-panel{
+  width: 400px;
+  display: inline;
+  text-align: center;
+}
+.div-button{
+  width: 100px;
+  margin: 0 auto;
+}

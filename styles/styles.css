@@ -1,0 +1,35 @@
+div{background-color:  cyan;
+color: blue;
+}
+div p{
+  color: green;
+}
+div h2{color: gray;
+}
+div div div p{
+  color:purple;
+}
+.clase-extra{
+  color: green;
+}
+.divisor-2{background-color: yellow;
+color: black;
+}
+
+#div3{
+  background-color: white;
+  color: red
+}
+p:first-child{
+  color:red;
+
+}
+
+p:last-child{
+  font-size: 20px;
+  color: orange;
+
+}
+p:nth-child(2){
+  color:black;
+}

@@ -1,0 +1,39 @@
+body{
+  text-align: center;
+}
+.google {
+  text-align: center;
+}
+a{
+  text-decoration: none;
+}
+.links li{
+  float: right;
+  list-style: none; margin: 0px 10px 0px 10px;
+}
+.menuhorizontal li{
+  font-family: verdana;
+  font-size: 15px;
+  float: left;
+  list-style: none; margin: 0px 10px 0px 10px;
+  text-align: center;
+}
+.menuhorizontal{
+  background-color: lightgray;
+  border-style: none;
+  clear: none;
+  position: absolute;
+bottom: 10px}
+
+button{
+  background-color: #f2f2f2;
+border: 1px solid #f2f2f2;
+border-radius: 2px;
+color: #757575;
+cursor: default;
+font-size: 13px;
+font-weight: bold;
+margin: 0 2px;
+padding: 11px 16px;
+text-align: center;
+}
